@@ -1,5 +1,11 @@
 # AND1:
 
+AND Project - Requirements Specification
+
+STAKEHOLDER: Ali is a civil engineering student at VIA in Horsens, who will soon graduate, and he would love to start a startup company. 
+
+REQUESTING APP: A sharing economy platform where all sorts of people can share different kinds of products by both lending out their own and borrowing other people’s. 
+
 REQUIREMENTS:
 
 Must have:
