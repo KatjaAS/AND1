@@ -14,6 +14,8 @@ User can add a product to be shared,
 User can find a product to borrow,
 User can search for products,
 User can search for products based on location,
+User should be able to make reservations,
+User should be able to delete reservations,
 Easy communication between users,
 User can see availability of product,
 Overview over your bookings,
@@ -26,6 +28,7 @@ User can add feedback and reviews.
 
 Should have:
 User can check availability on a map,
+User gets notification when his product has been booked,
 User gets pop-up messages about new products,
 User gets email notification about new products,
 Users can connect to other users,
